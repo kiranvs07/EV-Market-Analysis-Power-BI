@@ -1,5 +1,0 @@
-Charging_ID,Charging_Type,Charging_Power_kW,Charging_Time_Min
-CH001,AC Standard,7.4,360
-CH002,AC Fast,22.0,180
-CH003,DC Fast,50.0,90
-CH004,DC Ultra-Fast,150.0,30
